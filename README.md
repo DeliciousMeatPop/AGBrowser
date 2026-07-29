@@ -5,7 +5,7 @@
 **The official file browser for ARMGDDN Games — a customized [Rclone Browser](https://github.com/Alkl58/RcloneBrowser) built to make browsing and downloading from our remotes simple.**
 
 [![Website](https://img.shields.io/badge/Website-ARMGDDNBrowser.com-2ea44f?style=for-the-badge)](https://armgddnbrowser.com)<br>
-[![Telegram](https://img.shields.io/badge/Telegram-@ARMGDDNGames-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]<br>(https://t.me/ARMGDDNGames)
+[![Telegram](https://img.shields.io/badge/Telegram-@ARMGDDNGames-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ARMGDDNGames)<br>
 [![Is It Safe?](https://img.shields.io/badge/Is%20ARMGDDN%20Safe%3F-Read%20This-blue?style=for-the-badge)](https://rentry.co/IsARMGDDNSafe)
 
 </div>
