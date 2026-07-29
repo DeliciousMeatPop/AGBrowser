@@ -2,7 +2,14 @@
 
 # ARMGDDN Browser
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8583fc67-02b5-49b1-b6cf-463bc13c5047" />
+<p align="center">
+  <img
+    width="650"
+    height="650"
+    alt="ARMGDDN Browser"
+    src="https://github.com/user-attachments/assets/7fd735cb-dcf7-471a-b91c-1d22cd998457"
+  >
+</p>
 
 ---
 
@@ -40,6 +47,17 @@ It's built on a feature-rich fork of the open-source **Rclone Browser**, bundled
 On first launch the browser fetches the newest config and opens straight to the remotes.
 
 > **Tip:** Install to a normal folder you control (Best use case is your drive root), not a protected system directory(e.g. **NOT** your Desktop or Documents or ANYWHERE in your user directory.).
+
+
+## Tutorial Video
+<p align="center">
+  <a href="https://streamable.com/kg43ii">
+    <img
+      alt="ARMGDDN Browser tutorial"
+      src="https://github.com/user-attachments/assets/7f884efe-fdd8-460f-b68f-14f5c2b17306"
+    >
+  </a>
+</p>
 
 ## What's in the download
 
