@@ -2,6 +2,10 @@
 
 # ARMGDDN Browser
 
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/8583fc67-02b5-49b1-b6cf-463bc13c5047" />
+
+---
+
 **The official file browser for ARMGDDN Games — a customized [Rclone Browser](https://github.com/Alkl58/RcloneBrowser) built to make browsing and downloading from our remotes simple.**
 
 [![Website](https://img.shields.io/badge/Website-ARMGDDNBrowser.com-2ea44f?style=for-the-badge)](https://armgddnbrowser.com)<br>
@@ -35,7 +39,7 @@ It's built on a feature-rich fork of the open-source **Rclone Browser**, bundled
 
 On first launch the browser fetches the newest config and opens straight to the remotes.
 
-> **Tip:** Install to a normal folder you control (Best use case is a c:\), not a protected system directory(e.g. **NOT** your Desktop or Documents or ANYWHERE in your user directory.).
+> **Tip:** Install to a normal folder you control (Best use case is your drive root), not a protected system directory(e.g. **NOT** your Desktop or Documents or ANYWHERE in your user directory.).
 
 ## What's in the download
 
