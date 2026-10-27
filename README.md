@@ -1,4 +1,11 @@
-<div align="center">
+# We use a website now, ARMGDDNBrowser.com
+**you need to be in our telegram chat or you wont be able to use it t.me/ARMGDDNGames**
+
+<details>
+<summary>Info is outdated, keeping for posterity only (this is a SPOILER CLICK TO EXPAND!)</summary>
+
+
+
 
 # ARMGDDN Browser
 
@@ -112,3 +119,5 @@ Just hit the ⭐ and we both win.
 [![GitHub stars for this repo](https://img.shields.io/github/stars/DeliciousMeatPop/AGBrowser?style=social)](https://github.com/DeliciousMeatPop/AGBrowser) = **GitHub stars for this repo**
 
 [![GitHub stars in total (all repos)](https://img.shields.io/github/stars/DeliciousMeatPop?style=social)](https://github.com/DeliciousMeatPop) = **GitHub stars in total (all repos)**
+
+</details><div align="center">
